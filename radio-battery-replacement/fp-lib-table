@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name footprints)(type KiCad)(uri /home/justin/git/radio-battery-replacement/parts/ul_TYPEC-304-ACP16/KiCADv6/footprints.pretty)(options "")(descr ""))
+)
